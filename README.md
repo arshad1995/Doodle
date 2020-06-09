@@ -1,6 +1,6 @@
 # Doodle
 
-Purpose of the repository
+#Purpose of the repository
 Freehand drawing
 
 Dependencies   
